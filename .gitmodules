@@ -1,0 +1,3 @@
+[submodule "Cork"]
+	path = Cork
+	url = git://github.com/TekNoLogic/Cork.git
